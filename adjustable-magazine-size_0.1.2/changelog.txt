@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.2
+Date: 2022.05.31
+  Features:
+    - Introduced settings for ammo-count of Shotgun Shells and Piercing Shotgun Shells.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2022.05.28
+  Features:
+    - Initial release.
