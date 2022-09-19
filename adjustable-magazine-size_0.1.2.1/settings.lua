@@ -5,7 +5,8 @@ data:extend({
         setting_type = "startup",
         minimum_value = 5,
         default_value = 30,
-        maximum_value = 100
+        maximum_value = 100,
+        order = "a"
     },
     {
         type = "int-setting",
@@ -13,7 +14,8 @@ data:extend({
         setting_type = "startup",
         minimum_value = 5,
         default_value = 30,
-        maximum_value = 100
+        maximum_value = 100,
+        order = "b"
     },
     {
         type = "int-setting",
@@ -21,7 +23,8 @@ data:extend({
         setting_type = "startup",
         minimum_value = 5,
         default_value = 30,
-        maximum_value = 100
+        maximum_value = 100,
+        order = "c"
     },
     {
         type = "int-setting",
@@ -29,7 +32,8 @@ data:extend({
         setting_type = "startup",
         minimum_value = 2,
         default_value = 10,
-        maximum_value = 20
+        maximum_value = 20,
+        order = "d"
     },
     {
         type = "int-setting",
@@ -37,6 +41,7 @@ data:extend({
         setting_type = "startup",
         minimum_value = 2,
         default_value = 10,
-        maximum_value = 20
+        maximum_value = 20,
+        order = "e"
     }
 })
